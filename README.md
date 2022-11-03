@@ -1,2 +1,3 @@
-# demo-micro-frontend
-demo micro frontend
+# demo-micro-frontends
+
+demo micro frontends
